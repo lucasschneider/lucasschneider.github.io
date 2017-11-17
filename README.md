@@ -16,6 +16,6 @@ Lucas Schneider is a freelance programmer and web developer from Madison, Wiscon
 # Websites
 
 <dl>
-  <dt><a href="http://anagumaeisa.org" >Anaguma Eisa</a></dt>
+  <dt><a href="http://anagumaeisa.org" target="_blank" >Anaguma Eisa</a></dt>
   <dd>Anaguma Eisa is a student organization at the University of Wisconsin-Madison that performs eisa, a traditional Okinawan folk dance from the Ryukyu Islands in southern Japan. Their performances excite viewers with a cultural fusion of dance, drumming, martial arts, and both traditional and contemporary Okinawan music.<br /><br />This website is built with <strong>Drupal 8</strong>.</dd>
 </dl>
