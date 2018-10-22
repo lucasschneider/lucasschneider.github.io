@@ -11,8 +11,6 @@ Lucas Schneider is a freelance programmer and web developer from Madison, Wiscon
   <dd> A Python 3 script to generate custom pull lists for libraries within the South Central Library System.</dd>
   <dt><a href="http://lrschneider.com/AnagumaEisaMobile">Wisconsin Eisa</a></dt>
   <dd> An Andriod application to keep you in touch with Anaguma Eisa and the Okinawan Taiko Drummers of Wisconsin.</dd>
-  <dt><a href="http://lrschneider.com/masenahekan">Masenahekan WebExtension</a></dt>
-  <dd>This extension parses the values of text input fields in the <a href="http://masenahekan.com" target="_blank">Masenahekan Menominee Language Database</a>, to more easily search for lexemes with macron characters: ā, a͞e, ē, ī, ō, ū. </dd>
 </dl>
 
 # Websites
