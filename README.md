@@ -5,9 +5,9 @@ Lucas Schneider is a freelance programmer and web developer from Madison, Wiscon
 # Projects
 
 <dl>
-  <dt><a href="https://lrschneider.com/mpl-bibex">MPL Bibliovation Web Extension</a></dt>
+  <dt>MPL Bibliovation Web Extension [<a href="https://lrschneider.com/mpl-bibex-firefox">Firefox</a> | <a href="https://lrschneider.com/mpl-bibex-chrome">Chrome</a>]</dt>
   <dd>MPL BibEx is a WebExtension built for Firefox and Google Chrome to add additional features to the PTFS Bibliovation library system. It is developed for the benefit of member libraries of Wisconsin's South Central Library System.</dd>
-  <dt><a href="https://lrschneider.com/mpl-koha-patch-WE">MPL Koha Patch</a></dt>
+  <dt>MPL Koha Patch [<a href="https://lrschneider.com/mpl-koha-patch-firefox">Firefox</a> | <a href="https://lrschneider.com/mpl-koha-patch-chrome">Chrome</a>]</dt>
   <dd>The MPL Koha Patch is a WebExtension built for Firefox and Google Chrome which augments the display of LibLime Koha to make various tasks more convenient for library staff. While it is developed for use by member libraries of Wisconsin’s South Central Library System, it is not supported by SCLS, but is an independent project by a Library Page at Madison Central Library.</dd>
   <dt><a href="https://lrschneider.com/scls-custom-picklist">SCLS Custom Picklist</a></dt>
   <dd> A Python 3 script to generate custom pull lists for libraries within the South Central Library System.</dd>
